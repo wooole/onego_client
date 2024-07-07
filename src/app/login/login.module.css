@@ -1,0 +1,21 @@
+.flexColumnContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 10px;
+}
+
+.inputStyle {
+    height: 1rem;
+    border-radius: 20px;
+    padding: 12px;
+}
+
+.buttonStyle {
+    width: 190px;
+    padding: 12px;
+    border-radius: 20px;
+}
+.buttonStyle:hover {
+    background-color: aqua;
+}
